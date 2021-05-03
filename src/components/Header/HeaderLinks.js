@@ -33,7 +33,7 @@ export default function HeaderLinks(props) {
       <ListItem className={classes.listItem}>
         <Button
           color="transparent"
-          href="https://jjrr1717.github.io/kmb-contracting-and-bobcat/our-work" 
+          href="views/OurWork/OurWork.js" 
           //target="_blank"
           //className={classes.navLink}
           className={ourWork}

@@ -63,7 +63,7 @@ export default function Header(props) {
   const brandComponent = (
       <Button
       color="transparent"
-      href="http://localhost:3000/"
+      href="https://jjrr1717.github.io/kmb-contracting-and-bobcat/"
       target="_blank"
     >
       <img src={image1} alt="First slide" className="slick-image" />

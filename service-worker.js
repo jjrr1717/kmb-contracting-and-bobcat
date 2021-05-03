@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kmb-contracting-and-bobcat/precache-manifest.b1cb6e2df8d9fa698f6ea8a70df5f967.js"
+  "/kmb-contracting-and-bobcat/precache-manifest.dded95a0ec0025aeb48f6f879958fb15.js"
 );
 
 self.addEventListener('message', (event) => {

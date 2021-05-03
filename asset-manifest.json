@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/kmb-contracting-and-bobcat/static/css/main.fedf132f.chunk.css",
+    "main.js": "/kmb-contracting-and-bobcat/static/js/main.989337d2.chunk.js",
+    "main.js.map": "/kmb-contracting-and-bobcat/static/js/main.989337d2.chunk.js.map",
+    "runtime-main.js": "/kmb-contracting-and-bobcat/static/js/runtime-main.02cd2f77.js",
+    "runtime-main.js.map": "/kmb-contracting-and-bobcat/static/js/runtime-main.02cd2f77.js.map",
+    "static/js/2.95d881f5.chunk.js": "/kmb-contracting-and-bobcat/static/js/2.95d881f5.chunk.js",
+    "static/js/2.95d881f5.chunk.js.map": "/kmb-contracting-and-bobcat/static/js/2.95d881f5.chunk.js.map",
+    "index.html": "/kmb-contracting-and-bobcat/index.html",
+    "precache-manifest.ee750c0da24d31128f5ba8752ec42ff1.js": "/kmb-contracting-and-bobcat/precache-manifest.ee750c0da24d31128f5ba8752ec42ff1.js",
+    "service-worker.js": "/kmb-contracting-and-bobcat/service-worker.js",
+    "static/css/main.fedf132f.chunk.css.map": "/kmb-contracting-and-bobcat/static/css/main.fedf132f.chunk.css.map",
+    "static/js/2.95d881f5.chunk.js.LICENSE.txt": "/kmb-contracting-and-bobcat/static/js/2.95d881f5.chunk.js.LICENSE.txt",
+    "static/media/bobcat-0.jpg": "/kmb-contracting-and-bobcat/static/media/bobcat-0.630dcf67.jpg",
+    "static/media/bucket-0.jpg": "/kmb-contracting-and-bobcat/static/media/bucket-0.58d67209.jpg",
+    "static/media/equipment-0.jpg": "/kmb-contracting-and-bobcat/static/media/equipment-0.41448842.jpg",
+    "static/media/fense-0.jpg": "/kmb-contracting-and-bobcat/static/media/fense-0.f27a116f.jpg",
+    "static/media/fense-1.jpg": "/kmb-contracting-and-bobcat/static/media/fense-1.cb447e10.jpg",
+    "static/media/fense-kurtis.jpg": "/kmb-contracting-and-bobcat/static/media/fense-kurtis.0fa4ac47.jpg",
+    "static/media/kmb-logo-white.jpg": "/kmb-contracting-and-bobcat/static/media/kmb-logo-white.345af699.jpg",
+    "static/media/now-loading.jpg": "/kmb-contracting-and-bobcat/static/media/now-loading.9ca01016.jpg",
+    "static/media/snow-removal.jpg": "/kmb-contracting-and-bobcat/static/media/snow-removal.1f38f1cb.jpg",
+    "static/media/trailer-0.jpg": "/kmb-contracting-and-bobcat/static/media/trailer-0.db7571ac.jpg",
+    "static/media/trailer-1.jpg": "/kmb-contracting-and-bobcat/static/media/trailer-1.9ca84ee7.jpg",
+    "static/media/truck-skid-steer.jpg": "/kmb-contracting-and-bobcat/static/media/truck-skid-steer.207b48c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02cd2f77.js",
+    "static/js/2.95d881f5.chunk.js",
+    "static/css/main.fedf132f.chunk.css",
+    "static/js/main.989337d2.chunk.js"
+  ]
+}

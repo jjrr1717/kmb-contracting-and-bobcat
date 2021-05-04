@@ -5,7 +5,7 @@ import ListItem from "@material-ui/core/ListItem";
 import Tooltip from "@material-ui/core/Tooltip";
 import Button from "components/CustomButtons/Button.js";
 import styles from "assets/jss/material-kit-react/components/headerLinksStyle.js";
-
+import { Link } from 'react-router-dom';
 
 const useStyles = makeStyles(styles);
 
@@ -33,33 +33,39 @@ export default function HeaderLinks(props) {
       <ListItem className={classes.listItem}>
         <Button
           color="transparent"
-          href="/our-work" 
+          to="/our-work" 
           target="_blank"
           //className={classes.navLink}
           className={ourWork}
+          component={Link}
         >
-          My Work
+        My Work
+        {/* <Link to='/our-work' className={ourWork}>My Work</Link> */}
         </Button>
       </ListItem>
       <ListItem className={classes.listItem}>
         <Button
           color="transparent"
-          href="/about-us"
+          to="/about-us"
           target="_blank"
           className={aboutUs}
+          component={Link}
         >
           About Me
         </Button>
+        {/* <Link to='/about-us' className={aboutUs}>About Me</Link> */}
       </ListItem>
       <ListItem className={classes.listItem}>
         <Button
           color="transparent"
-          href="/contact-us"
+          to="/contact-us"
           target="_blank"
           className={contactUs}
+          component={Link}
         >
           Contact Me
         </Button>
+        {/* <Link to='/contact-us' className={contactUs}>Contact Me</Link> */}
       </ListItem>
       <ListItem className={classes.listItem}>
         <Tooltip

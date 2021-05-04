@@ -7,7 +7,8 @@ const headerLinksStyle = theme => ({
     color: "rgb(27, 44, 8)"
   },
   activePage:{
-    background: "#c5d785"
+    background: "#c5d785",
+    textDecoration: "none !important"
   },
   list: {
     ...defaultFont,

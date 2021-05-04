@@ -22,22 +22,20 @@ ReactDOM.render(
   //         <Route path="/" component={LandingPage} />
   //       </div>
   //     </HashRouter>,
-  // <Router history={hist}>
-  //   <Switch>
-  //     <Route path="/our-work" component={OurWork} />
-  //     <Route path="/about-us" component={AboutUs} />
-  //     <Route path="/contact-us" component={ContactUs} />
-  //     <Route path="/" component={LandingPage} />
-  //   </Switch>
-  // </Router>,
+  <Router basename={process.env.PUBLIC_URL} history={hist}>
+    <Switch>
+      <Route path="/our-work" component={OurWork} />
+      <Route path="/about-us" component={AboutUs} />
+      <Route path="/contact-us" component={ContactUs} />
+      <Route path="/" component={LandingPage} />
+    </Switch>
+  </Router>,
 
-  <Router history={hist}>
-     <Switch>
-       <Route path="/our-work" component={OurWork} />
-       <Route path="/about-us" component={AboutUs} />
-       <Route path="/contact-us" component={ContactUs} />
-       <Route path="/" component={LandingPage} />
-     </Switch>
-     </Router>,
+  // <HashRouter basename={process.env.PUBLIC_URL}>
+  //      <Route path="/our-work" component={OurWork} />
+  //      <Route path="/about-us" component={AboutUs} />
+  //      <Route path="/contact-us" component={ContactUs} />
+  //      <Route path="/" component={LandingPage} />
+  // </HashRouter>,
   document.getElementById("root")
 );

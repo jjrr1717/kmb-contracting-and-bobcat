@@ -33,8 +33,8 @@ export default function HeaderLinks(props) {
       <ListItem className={classes.listItem}>
         <Button
           color="transparent"
-          href="../../../views/OurWork/OurWork.js" 
-          //target="_blank"
+          href="/our-work" 
+          target="_blank"
           //className={classes.navLink}
           className={ourWork}
         >
@@ -44,8 +44,8 @@ export default function HeaderLinks(props) {
       <ListItem className={classes.listItem}>
         <Button
           color="transparent"
-          href="https://jjrr1717.github.io/kmb-contracting-and-bobcat/about-us"
-          //target="_blank"
+          href="/about-us"
+          target="_blank"
           className={aboutUs}
         >
           About Me
@@ -54,8 +54,8 @@ export default function HeaderLinks(props) {
       <ListItem className={classes.listItem}>
         <Button
           color="transparent"
-          href="https://jjrr1717.github.io/kmb-contracting-and-bobcat/contact-us"
-          //target="_blank"
+          href="/contact-us"
+          target="_blank"
           className={contactUs}
         >
           Contact Me

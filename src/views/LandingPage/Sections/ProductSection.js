@@ -29,7 +29,7 @@ export default function ProductSection() {
           </h4>
           <Typography className={classes.description}>
             We have a skid steer with multiple bits for augering, a graphal bucket, and pallet forks.
-            A tri axle gooseneck dump trailer and a 24{"'"} flat desk goodneck trailer, as well as a 3
+            A tri axle gooseneck dump trailer and a 24{"'"} flat deck goodneck trailer, as well as a 3
             ton exacavator.
           </Typography>
         </GridItem>
